@@ -6,7 +6,6 @@ This project demonstrates how to use Rapid API.
 Furthermore, this project also demonstrates how to deploy the web app to netlify site.
 ***
 ## Prerequisites
-***
 + Rapid API host &amp; Key
 ***
 ## Features
