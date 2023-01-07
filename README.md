@@ -1,7 +1,7 @@
 # Weather-WebApp
 # A weather web application created using API Ninjas &amp; Rapid API, JavaScript, HTML5, CSS3.
 ***
-## Introduction:
+## Introduction
 This project demonstrates how to use Rapid API. 
 Furthermore, this project also demonstrates how to deploy the web app to netlify site.
 ***
